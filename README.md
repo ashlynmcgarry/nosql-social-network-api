@@ -37,7 +37,7 @@ This project is licensed under [MIT License](https://opensource.org/licenses/MIT
 
 ## Credits
 
-Assistance for this project was provided by the AI Xpert Learning Assistant within Bootcamp Spot. This assistance included answering questions, explaining concepts, debugging code and providing code examples. Assisstance was also provided via the class instructor in office hours, who helped in providing direction and explaining steps to tackle aspects of the challenge.
+Assistance for this project was provided by the AI Xpert Learning Assistant within Bootcamp Spot. This assistance included answering questions, explaining concepts, debugging code and providing code examples. Assisstance was also provided via the class instructor in office hours, who helped in providing direction and explaining steps to tackle aspects of the challenge and via Stack Overflow, which helped with clarifying concepts.
 
 ## Contributing
 
