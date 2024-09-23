@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "keywords": [],
-  "author": "",
+  "author": "Ashlyn McGarry",
   "license": "MIT",
   "description": "NoSQL Social Network API utilising Mongoose",
   "scripts": {
