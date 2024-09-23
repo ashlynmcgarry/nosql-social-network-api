@@ -7,9 +7,7 @@
   "license": "MIT",
   "description": "NoSQL Social Network API utilising Mongoose",
   "scripts": {
-    "start": "node server",
-    "seed": "node utils/seed.js",
-    "dev": "nodemon server.js"
+    "start": "node server"
   },
   "dependencies": {
     "express": "^4.17.1",
