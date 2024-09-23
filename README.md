@@ -12,6 +12,7 @@ This Social Network API allows a user to make a range of back end API calls for 
 - [Credits](#credits)
 - [Contributing](#contributing)
 - [Features](#features)
+- [Contact](#Contact)
 
 ## Installation
 
@@ -47,3 +48,7 @@ If you would like to contribute to the project and make it better, please feel f
 - POST requests to add a new user, add a new thought, add a friend to a user's friend list and add a reaction to a thought
 - PUT requests to update a user or a thought
 - DELETE requests to delete a user, delete a thought, delete a friend from a user's friend list or delete a reaction to a thought
+
+## Contact
+
+To contact the creator of this repo, get in contact with Ashlyn McGarry on Github.
