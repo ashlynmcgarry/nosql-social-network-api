@@ -4,7 +4,7 @@
   "main": "server.js",
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "",
   "scripts": {
     "start": "node server",
